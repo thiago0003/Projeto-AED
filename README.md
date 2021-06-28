@@ -1,2 +1,2 @@
-# Projeto-AED
-Projeto desenvolvido na disciplina de AED
+# ProjetoAED
+Desenvolvimento do projeto da disciplina de Algoritmo e Estrutura de Dados 

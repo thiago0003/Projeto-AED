@@ -1,0 +1,15 @@
+﻿  Tetris Game.cpp
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(265,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(292,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(308,33): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(332,65): warning C4305: '=': truncamento de 'double' para 'float'
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(355,40): warning C4305: '=': truncamento de 'double' para 'float'
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(384,41): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(384,33): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(393,57): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(393,39): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(399,68): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(399,50): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(405,68): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Tetris Game\Tetris Game.cpp(405,50): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  Tetris Game.vcxproj -> E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\Debug\Tetris Game.exe

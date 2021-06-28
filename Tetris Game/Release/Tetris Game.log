@@ -1,0 +1,4 @@
+﻿  MetodosFila.cpp
+  MetodosPilha.cpp
+  Tetris Game.cpp
+E:\Area de trabalho\UFSCar\Estrutura de Dados\Tetris-Game-master\ProjetoAED\sfml\include\SFML\Graphics\Text.hpp(31,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics/Export.hpp': No such file or directory
